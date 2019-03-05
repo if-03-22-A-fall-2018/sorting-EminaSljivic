@@ -33,6 +33,11 @@
 #define VERY_SMALL		1024	// 2^10
 #define TINY			256 	// 2 ^8
 
+int main(int argc, char const *argv[]) {
+  
+  return 0;
+}
+
 /*
 * Suggestion how to initialize the arrays which must be sorted with test data.
 * 1. Create a array of size HUGE and initialize it with random data.
